@@ -1,0 +1,8 @@
+[package]
+name = "rust-bst"
+version = "0.1.0"
+authors = ["avigael <code@gaels.us>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
